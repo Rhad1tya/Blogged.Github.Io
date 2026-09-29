@@ -40,7 +40,7 @@
       <h2>Lomba Pembuatan 3D Model</h2>
       <p><i>Jumat, 4 September 2026.</i></p>
       <p>Telah dibuka pendaftaran lomba pembuatan 3D Modelling bertemakan Mecha di Tangerang. Lomba ini bekerja sama dengan Deadline Studio Kota Tangerang, yang bertujuan untuk memperkenalkan pariwisata yang ada di kota Tangerang.</p>
-      <p><a href="#">Selanjutnya</a></p>
+      <p><a href="PJJ.HTML">Selanjutnya</a></p>
 
     </td>
 
